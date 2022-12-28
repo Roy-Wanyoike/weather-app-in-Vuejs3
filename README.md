@@ -1,24 +1,15 @@
 # vue-weather
 
-## Project setup
-```
-npm install
-```
+## key notes
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- rendering
+- display
+- updates in vue3
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Some pics of my shoddy work on the wednesday 28th 2022
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Try One](/src/assets//screenshots/germany.png "Germany")
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Try Two](./src/assets/screenshots//ghana.png "Ghana")
+![Try Three](./src//assets/screenshots/kenya.png "Kenya")
+![Kisii trial weather](./src//assets/screenshots/lol.png "Kisii")
